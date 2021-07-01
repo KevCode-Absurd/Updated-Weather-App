@@ -1,0 +1,27 @@
+body {
+  font-family: "DM Sans", sans-serif;
+  background: #fff4ec;
+  letter-spacing: 0.1em;
+  font-size: 0.8em;
+}
+
+.card {
+  background-color: #f8f9fa;
+}
+
+h1 {
+  font-weight: bold;
+}
+.container {
+  max-width: 400px;
+}
+
+.icon {
+  position: relative;
+  top: -50px;
+  border-radius: 50%;
+  width: 100px;
+  margin-bottom: -50px;
+  border: 1px solid rgb(255, 255, 250);
+  box-shadow: 5px 5px rgb(29, 29, 27);
+}
